@@ -32,8 +32,8 @@ Libraries Used:
 
 **⚙️ Installation & Setup**
 
-#1️⃣ Clone Repository
-git clone https://github.com/your-username/data-hotel.git
+**#1️⃣ Clone Repository
+git clone ttps://github.com/HarshMachiya/Data-Hotel.git**
 cd data-hotel
 
 #2️⃣ Install Dependencies
